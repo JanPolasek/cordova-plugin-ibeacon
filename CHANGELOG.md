@@ -1,3 +1,6 @@
+# 4.0.0
+- Updating beacon library to 1.19 and moving away from JCenter
+
 # 3.8.1
 - Fixing botched plugin id in release of v3.8.0.
 
